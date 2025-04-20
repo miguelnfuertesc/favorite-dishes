@@ -1,0 +1,20 @@
+/* Estilos CSS
+| Colores |
+Blanco: #F5F5F5
+Azul: #0091EA
+Negro: #212121
+*/
+
+.header {
+	font-size: 2em;
+	background-color: #0091EA;
+	color: #fff;
+}
+
+.mensaje {
+	color: #0091EA;
+}
+
+a {
+	text-decoration: none !important;
+}
